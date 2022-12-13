@@ -1,0 +1,12 @@
+{
+  "name": "mashgrid",
+  "outputfilename": "mashgrid",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Jonathan Lloyd",
+    "email": "jonathan@thisisjonathan.com"
+  }
+}
